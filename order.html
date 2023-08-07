@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./order.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;200;300;400;500;600;700;800;900&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap");
+    </style>
+    <script
+      src="https://kit.fontawesome.com/377dc385fc.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="icon">
+      <i class="fa-solid fa-house fa-2x" style="color: #da5757"></i>
+      <i class="fa-regular fa-circle-question fa-2x" style="color: #da5757"></i>
+    </div>
+
+    <div class="options">
+      <button class="basic_option">추천메뉴</button>
+      <button class="option">김밥</button>
+      <button class="option">분식</button>
+    </div>
+
+    <div class="menulist">
+      <div class="menu">
+        <div class="menuimg">
+          <img src="./99D8FC365B0A6EAC1E.jpeg" alt="오류" />
+        </div>
+        <p class="name">야채 김밥</p>
+        <p class="price">2,500원</p>
+      </div>
+      <div class="menu">
+        <div class="menuimg">
+          <img src="./떡볶이.jpg" alt="오류" />
+        </div>
+        <p class="name">떡볶이</p>
+        <p class="price">5,500원</p>
+      </div>
+      <div class="menu">
+        <div class="menuimg">
+          <img src="./떡만둣국.png" alt="오류" />
+        </div>
+        <p class="name">떡만둣국</p>
+        <p class="price">6,500원</p>
+      </div>
+    </div>
+
+    <div class="order_list">
+      <div class="check"></div>
+      <div class="container">
+        <div class="pay_right">
+          <div class="rest_time">남은시간<br />120초</div>
+          <button class="delete_all" onclick="전체삭제()">
+            전체<br />삭제
+          </button>
+        </div>
+        <button class="item_number">선택한 상품</button>
+        <button class="pay_btn">결제하기</button>
+      </div>
+    </div>
+  </body>
+</html>
