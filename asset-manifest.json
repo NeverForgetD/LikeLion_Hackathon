@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23b5167e.css",
+    "main.js": "/static/js/main.901a0ac3.js",
+    "static/js/787.fd5a9022.chunk.js": "/static/js/787.fd5a9022.chunk.js",
+    "static/media/soup.png": "/static/media/soup.157ff5bb17c5729416e2.png",
+    "static/media/김밥.jpeg": "/static/media/김밥.adee49c4d9bc64f71097.jpeg",
+    "static/media/떡볶이.jpg": "/static/media/떡볶이.e7dce3835cfb2b813434.jpg",
+    "static/media/새우튀김김밥.jpg": "/static/media/새우튀김김밥.920e09b2c799af76a22f.jpg",
+    "static/media/비빔면.jpg": "/static/media/비빔면.5e3bb92c655561e75e7b.jpg",
+    "static/media/치즈김밥.jpg": "/static/media/치즈김밥.62561fcd824b273c2999.jpg",
+    "static/media/소세지김밥.jpg": "/static/media/소세지김밥.ddbb3db06714240886c7.jpg",
+    "static/media/다이어트김밥.jpg": "/static/media/다이어트김밥.ad687fff557c797b5b13.jpg",
+    "index.html": "/index.html",
+    "main.23b5167e.css.map": "/static/css/main.23b5167e.css.map",
+    "main.901a0ac3.js.map": "/static/js/main.901a0ac3.js.map",
+    "787.fd5a9022.chunk.js.map": "/static/js/787.fd5a9022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b5167e.css",
+    "static/js/main.901a0ac3.js"
+  ]
+}
