@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: space-between;
+}
+
+.info {
+  margin-right: 10px;
+  margin-left: 10px;
+  color: black;
+  font-size: 15px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.info p {
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+.divider {
+  width: 100%; /* 수평선이 컨테이너의 가로 길이에 맞게 */
+  margin: 10px 0; /* 수평선 위아래 여백 설정 */
+  border: 0;
+  border-top: 1px solid #ccc; /* 실선으로 설정 */
+}

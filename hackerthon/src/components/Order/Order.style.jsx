@@ -27,6 +27,7 @@ const Menu = styled.div`
   border: none;
   border-radius: 10px;
   display: flex;
+  flex-wrap: wrap; /* Add this line to wrap items */
   justify-content: space-around;
   height: 340px;
   margin: 10px 10px;

@@ -10,7 +10,8 @@ const Wrapper = styled.div`
 
 const Cart = styled.div`
   background-color: white;
-  width: 200px;
+  overflow-y: scroll;
+  width: 190px;
   height: 155px;
   padding-top: 20px;
 
